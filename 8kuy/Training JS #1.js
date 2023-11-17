@@ -23,3 +23,5 @@ helloWorld = function() {
     var str = "Hello World!";
     console.log( str );
 }
+
+console.log("void:", void(str:'Hello world'))
